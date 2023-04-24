@@ -1,3 +1,5 @@
+![image](https://github.com/Rarvision/CPP_Lua_Custom-Game-Engine/blob/main/media/screenshot.png?raw=true)
+
 ## Introduction
 
 This custom engine is based on the Entity-Component-System (ECS) design pattern. This widely-recognized architectural approach emphasizes the separation of concerns and offers a modular, efficient framework for organizing game objects and their associated behaviors. A dedicated ECS Coordinator is responsible for registering, managing, and orchestrating the interactions among entities, components, and systems within our game engine.
@@ -9,6 +11,8 @@ Our game engine provides an editor GUI allowing users to edit the map and set up
 Contributors: Xueqing Wang, Mao Zhang, Zun Wang, Huan-Feng Yeh
 
 ## Basic Elements
+
+![image](https://github.com/Rarvision/CPP_Lua_Custom-Game-Engine/blob/main/media/engine_architecture.png?raw=true)
 
 ### Entity
 
