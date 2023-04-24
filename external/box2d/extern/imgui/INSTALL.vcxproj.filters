@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Zun Wang\Documents\CS5850\FinalProject\finalproject-ecs\finalproject-boston-group6\Engine\external\box2d\CMakeFiles\a1f8fe565e84c3909abca91e850514a7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0FB56057-F460-3FA0-95FD-FCC0471282BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

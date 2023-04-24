@@ -1,0 +1,79 @@
+{
+    "Camera": {
+        "cameraX": 0,
+        "cameraY": 0,
+        "edge": 0.5,
+        "viewportHeight": 1080,
+        "viewportWidth": 1920,
+        "worldHeight": 1080,
+        "worldWidth": 1920
+    },
+    "Enemy": [
+        {
+            "filePath": "./Resources/images/sprite.bmp",
+            "frame": 6,
+            "health": 10,
+            "posX": 5,
+            "posY": 5,
+            "sizeX": 75,
+            "sizeY": 75,
+            "speed": 5
+        },
+        {
+            "filePath": "./Resources/images/sprite.bmp",
+            "frame": 6,
+            "health": 6,
+            "posX": 100,
+            "posY": 100,
+            "sizeX": 75,
+            "sizeY": 75,
+            "speed": 8
+        }
+    ],
+    "Player": {
+        "filePath": "./Resources/images/Mario.bmp",
+        "frame": 5,
+        "posX": 100,
+        "posY": 400,
+        "renderSizeX": 64,
+        "renderSizeY": 64,
+        "scriptName": "test",
+        "sizeX": 16,
+        "sizeY": 16
+    },
+    "TestEntity": {
+        "filePath": "./Resources/images/Mario.bmp",
+        "frame": 1,
+        "name": "test",
+        "renderSizeX": 64,
+        "renderSizeY": 64,
+        "scriptName": "test",
+        "sizeX": 16,
+        "sizeY": 16,
+        "transformX": 400,
+        "transformY": 400
+    },
+    "TestEntity2": {
+        "filePath": "./Resources/images/Mario.bmp",
+        "frame": 1,
+        "name": "test2",
+        "renderSizeX": 64,
+        "renderSizeY": 64,
+        "scriptName": "test2",
+        "sizeX": 16,
+        "sizeY": 16,
+        "transformX": 500,
+        "transformY": 550
+    },
+    "Tilemap": {
+        "cols": 8,
+        "filePath": "./Resources/images/Tilemap2.bmp",
+        "gap": 1,
+        "mapX": 55,
+        "mapY": 17,
+        "rows": 8,
+        "scaleFactor": 4,
+        "tileHeight": 16,
+        "tileWidth": 16
+    }
+}

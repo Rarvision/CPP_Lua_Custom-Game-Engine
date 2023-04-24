@@ -1,0 +1,50 @@
+{
+    "Images":{
+        "Img_Menu":{
+            "filePath" : "./Resources/images/Menu/Background/Menu_BG.bmp",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "w": 1920,
+                "h": 1080
+            }
+        }
+    },
+    "Buttons": {
+        "Btn_AddTile": {
+            "position": {
+                "x": 100,
+                "y": 200
+            },
+            "size": {
+                "w": 64,
+                "h": 64
+            },
+            "filePath" : "./Resources/images/Editor/Button/Btn_AddTile.bmp"
+        },
+        "Btn_RemoveTile": {
+            "position": {
+                "x": 320,
+                "y": 250
+            },
+            "size": {
+                "w": 64,
+                "h": 64
+            },
+            "filePath" : "./Resources/images/Editor/Button/Btn_RemoveTile.bmp"
+        },
+        "Btn_Menu_StartGame": {
+            "position": {
+                "x": 320,
+                "y": 250
+            },
+            "size": {
+                "w": 64,
+                "h": 64
+            },
+            "filePath" : "./Resources/images/Editor/Button/Btn_RemoveTile.bmp"
+        }
+    }
+}
